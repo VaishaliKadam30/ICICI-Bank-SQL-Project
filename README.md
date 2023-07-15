@@ -1,4 +1,4 @@
-![image](https://github.com/VaishaliKadam30/ICICI-Bank-SQL-Project/assets/131688606/8285d36f-7026-4dd8-8571-5c2603480a25)# ICICI-Bank-SQL-Project
+# ICICI-Bank-SQL-Project
 Create a Bank Management System which has Multiple tables and
 relationships between the tables depending on the constraints which
 we are passing to connect the different tables. By using this database
